@@ -1,15 +1,15 @@
-# 🎥 KALEIDOSCOPE - Real-time Meeting Platform
+🎥 MEETSPACE - Real-time Meeting Platform
 
 A modern, fast, and intuitive real-time meeting platform built with Node.js, React, and Socket.IO. Create instant meeting rooms, chat in real-time, and collaborate seamlessly.
 
-![MeetSpace Demo](https://img.shields.io/badge/Status-Ready%20to%20Deploy-green)
+
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-brightgreen)
 ![React](https://img.shields.io/badge/React-18%2B-blue)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7%2B-black)
 
-## ✨ Features
+✨ Features
 
-### 🎯 Core Functionality
+🎯 Core Functionality
 - **🚀 Instant Room Creation** - Generate unique room IDs in one click
 - **🔗 Easy Room Joining** - Join any room with just a Room ID
 - **💬 Real-time Messaging** - WebSocket-powered instant communication
@@ -232,9 +232,6 @@ vercel --prod
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎉 Acknowledgments
 
@@ -244,7 +241,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Lucide React for beautiful icons
 
 ---
-
-**Built with ❤️ for seamless real-time collaboration**
-
-For questions or support, please open an issue or contact the development team.
